@@ -32,5 +32,5 @@ We first had to parse the American Community Survey data for the relevant column
     For future reporting:
 We highly reccomend journalists looking to refactor the code to evaluate the challenges such as misspellings and incorrect entries in the historical SNAP data and reconciling the margin of error in the ACS data before attempting the same. 
 
-    This project is the original work of Sara Cooper, Christiana Freitag, Janani Jana and Menatalla Ibrahim with assistance from Matt Kiefer for Medill School of Journalism, Northwestern University. August 29,2025.
+This project is the original work of Sara Cooper, Christiana Freitag, Janani Jana and Menatalla Ibrahim with assistance from Matt Kiefer for Medill School of Journalism, Northwestern University. August 29,2025.
     
