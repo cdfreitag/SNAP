@@ -29,4 +29,8 @@ The purpose of the project is to create an intersecion of the need for SNAP at a
     Methodology:
 We first had to parse the American Community Survey data for the relevant columns which was then translated into community area level from census tract level. The more tedious part of the analysis was cleaning the Historical SNAP retail locator which had misspellings of Chicago, and inaccuracies in zipcode data which is reflected in the code. After joining the two, we developed our own SNAP Analysis where we had columns like Total households, SNAP households, percentage of SNAP households in a community area, and the number and type of store, segregated by community area. Our team then analyzed the data to deliver the data statements which could be validated/disproven by ground reporting.
 
+    For future reporting:
+We highly reccomend journalists looking to refactor the code to evaluate the challenges such as misspellings and incorrect entries in the historical SNAP data and reconciling the margin of error in the ACS data before attempting the same. 
 
+    This project is the original work of Sara Cooper, Christiana Freitag, Janani Jana and Menatalla Ibrahim with assistance from Matt Kiefer for Medill School of Journalism, Northwestern University. August 29,2025.
+    
