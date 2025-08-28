@@ -32,5 +32,21 @@ We first had to parse the American Community Survey data for the relevant column
     For future reporting:
 We highly reccomend journalists looking to refactor the code to evaluate the challenges such as misspellings and incorrect entries in the historical SNAP data and reconciling the margin of error in the ACS data before attempting the same. 
 
+All data and code for this project are organized in our repository (see the project’s data folder and code notebook). Here’s how to make the most of it:
+
+Data Files: The file snap_retailers_chicago.csv contains all SNAP-authorized retailers in Chicago (2004–2024), with their coordinates, store type, and community area. 
+The file chicago_snap_households.csv contains the ACS-derived metrics for each community area – including total households, SNAP households, and the percentage on SNAP (plus some demographics for context, if needed). 
+
+We also include snap_gap_by_community.xlsx which compiles key results (like store counts, ratios, rankings by community) for quick reference. 
+All source data citations are documented: USDA FNS for retailer data, U.S. Census Bureau ACS for household data, etc. 
+If you use these data, please credit those sources.
+
+We acknowledge that data like this benefits from periodic updates. 
+The USDA releases updated retailer data annually (usually mid-year for the prior year), and the ACS publishes new 5-year estimates each year. We recommend updating the analysis with 2025 data when available, to capture any effects post-pandemic or after the policy changes.  Our code is set up to accommodate new data with minimal changes – for instance, one can swap in the 2018–2022 ACS data file when it’s out. 
+
+We hope journalists, researchers, and community organizations can use this work as a framework to investigate SNAP access in other cities or to dig deeper into Chicago’s situation. The combination of public data and open-source analysis makes it possible to hold policymakers accountable: if certain neighborhoods have been left behind, the data will show it. 
+
+Feel free to reach out to our team if you have questions on using the data janarthananjanani99@gmail.com
+
 This project is the original work of Sara Cooper, Christiana Freitag, Janani Jana and Menatalla Ibrahim with assistance from Matt Kiefer for Medill School of Journalism, Northwestern University. August 29,2025.
     
