@@ -1,3 +1,5 @@
+_data analysis from 'snap-analysis.py'_
+
 **Community areas by SNAP recipients:**
 1. Of Chicago’s 77 community areas, Riverdale and Edison Park lack any retailers that currently accept SNAP benefits. 
 
