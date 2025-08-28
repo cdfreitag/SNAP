@@ -12,7 +12,6 @@ Original file is located at
 ## -- '/content/Boundaries - Community Areas_20250722.geojson' -- a geojson of community area boundaries in Chicago
 ## -- '/content/CensusTractsTIGER2010_20250821.csv' -- a list of census tracts mapped onto community areas in Chicago
 ## -- '/content/Historical SNAP Retailer Locator Data 2004-2024.csv' -- historical SNAP data from US Department of Agriculture
-!pip install rapidfuzz
 import requests, json
 import zipfile
 import pandas as pd
@@ -21,7 +20,6 @@ from shapely.geometry import Point
 from rapidfuzz import fuzz
 from google.colab import files
 from google.colab import files
-!pip install geopandas shapely
 from shapely import wkt
 from google.colab import files
 
