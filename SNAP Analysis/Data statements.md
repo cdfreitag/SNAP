@@ -1,6 +1,4 @@
-#Data Statements
-
-Community areas by SNAP recipients: 
+**Community areas by SNAP recipients:**
 1. Of Chicago’s 77 community areas, Riverdale and Edison Park lack any retailers that currently accept SNAP benefits. 
 
 2. While Edison Park doesn’t have any SNAP retailers, it also has the lowest percentage of households on SNAP of any Chicago community area (only 2% of households). 
@@ -11,7 +9,8 @@ Community areas by SNAP recipients:
 
 
 
-Density of SNAP stores in community areas:
+**Density of SNAP stores in community areas:**
+
 5. As the most densely populated area of Chicago, the Loop also has the highest density of SNAP-accepting retailers per square mile of Chicago’s community areas. 
 
 6. Excluding the Loop, Rodgers Park and West Ridge have the highest density of SNAP stores per square mile, with only 16.3% of its households on SNAP benefits in Rodgers Park and 19.2% in West Ridge. 
@@ -20,7 +19,7 @@ Density of SNAP stores in community areas:
 
 
 
-Types of SNAP Retailers 
+**Types of SNAP Retailers**
 
 8. Of the SNAP-accepting retailers across Chicago, the most frequent store type is a convenience store with over 42%. 
 
