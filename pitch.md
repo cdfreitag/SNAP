@@ -47,26 +47,3 @@ Defining “Store” and Food Access: Not every SNAP-authorized establishment is
 
 Despite these caveats, the data is robust enough to support the story’s central insights. We clearly see the geography of SNAP access in Chicago and have taken care to verify that the highlights are backed by multiple data points.
 
-
-
-    Using the Data and Resources
-
-This section serves as a guide for anyone who wants to replicate our analysis or explore the data further. All data and code for this project are organized in our repository (see the project’s data folder and code notebook). Here’s how to make the most of it:
-
-Data Files: The file snap_retailers_chicago.csv contains all SNAP-authorized retailers in Chicago (2004–2024), with their coordinates, store type, and community area. 
-The file chicago_snap_households.csv contains the ACS-derived metrics for each community area – including total households, SNAP households, and the percentage on SNAP (plus some demographics for context, if needed). 
-We also include snap_gap_by_community.xlsx which compiles key results (like store counts, ratios, rankings by community) for quick reference. 
-All source data citations are documented: USDA FNS for retailer data, U.S. Census Bureau ACS for household data, etc. 
-If you use these data, please credit those sources.
-
-    Future Updates: 
-We acknowledge that data like this benefits from periodic updates. 
-The USDA releases updated retailer data annually (usually mid-year for the prior year), and the ACS publishes new 5-year estimates each year. 
-We recommend updating the analysis with 2025 data when available, to capture any effects post-pandemic or after the policy changes. 
-Our code is set up to accommodate new data with minimal changes – for instance, one can swap in the 2018–2022 ACS data file when it’s out. 
-The README in the repository provides more detailed instructions on updating data sources and re-running analyses.
-
-We hope journalists, researchers, and community organizations can use this work as a framework to investigate SNAP access in other cities or to dig deeper into Chicago’s situation. 
-The combination of public data and open-source analysis makes it possible to hold policymakers accountable: if certain neighborhoods have been left behind, the data will show it. 
-Feel free to reach out to our team if you have questions on using the data or reproducing the charts
-janarthananjanani99@gmail.com
