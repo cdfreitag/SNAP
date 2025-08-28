@@ -1,5 +1,4 @@
-
-The Future of Food Assistance Programs in Chicago: Bridging the SNAP Gap
+Bridging the SNAP gap: The Future of Food Assistance Programs in Chicago
 
  Sara Cooper, Christiana Freitag, Janani Janarthanan, Menatalla Ibrahim
 
