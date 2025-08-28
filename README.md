@@ -32,7 +32,7 @@ We first had to parse the American Community Survey data for the relevant column
     For future reporting:
 We highly reccomend journalists looking to refactor the code to evaluate the challenges such as misspellings and incorrect entries in the historical SNAP data and reconciling the margin of error in the ACS data before attempting the same. 
 
-All data and code for this project are organized in our repository (see the project’s data folder and code notebook). Here’s how to make the most of it:
+All data and code for this project are organized in our repository. Here’s how to make the most of it:
 
 Data Files: The file snap_retailers_chicago.csv contains all SNAP-authorized retailers in Chicago (2004–2024), with their coordinates, store type, and community area. 
 The file chicago_snap_households.csv contains the ACS-derived metrics for each community area – including total households, SNAP households, and the percentage on SNAP (plus some demographics for context, if needed). 
