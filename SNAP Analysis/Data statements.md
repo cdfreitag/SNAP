@@ -5,7 +5,7 @@ _data analysis from 'snap-analysis.py'_
 
 2. While Edison Park doesn’t have any SNAP retailers, it also has the lowest percentage of households on SNAP of any Chicago community area (only 2% of households). 
 
-3. Without any stores that offer SNAP benefits, 65% of Riverside households are currently SNAP beneficiaries, according to the latest American Community Survey conducted in 2023.
+3. Without any stores that offer SNAP benefits, 65% of Riverdale households are currently SNAP beneficiaries, according to the latest American Community Survey conducted in 2023.
 
 4. Fuller Park has the highest percentage of households on SNAP in Chicago, with 70.2% of its residents on SNAP. Riverdale also has the second highest percentage, with 65.6% of households. 
 
